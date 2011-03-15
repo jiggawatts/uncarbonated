@@ -1,0 +1,257 @@
+Tuncarbonated
+v7
+r0
+t321808131.984467
+cCheck dependencies
+cProcessInfoPlistFile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/Info.plist uncarbonated-Info.plist
+cCompileXIB /Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib
+cCompileXIB /Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib
+cProcessPCH /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch.gch uncarbonated_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/main.o /Users/kingduggan1/iphoneapps/uncarbonated/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonatedAppDelegate.o /Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/FirstViewController.o /Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated normal i386
+cGenerateDSYMFile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app.dSYM /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated
+cTouch /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk
+c000000004AA3EE2300000000000000EE
+t1252257315
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A0BAA26000000000026EE80
+t1242278438
+s2551424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A0BAB370000000000261F90
+t1242278711
+s2498448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A0BAB250000000000001355
+t1242278693
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A0CBEBB000000000000075E
+t1242349243
+s1886
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A0CBF5F0000000001434100
+t1242349407
+s21184768
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.h
+c000000004D7E2F4900000000000000F1
+t1300115273
+s241
+i<UIKit/UIKit.h>
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m
+c000000004D7E2F4900000000000005B6
+t1300115273
+s1462
+i"FirstViewController.h"
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.h
+c000000004D7E2F4900000000000001EA
+t1300115273
+s490
+i<UIKit/UIKit.h>
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m
+c000000004D7E2F4900000000000003D0
+t1300115273
+s976
+i"uncarbonatedAppDelegate.h"
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib
+c000000004D7E2F4900000000000041F0
+t1300115273
+s16880
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib
+c000000004D7E2F4900000000000022BB
+t1300115273
+s8891
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app
+t1300115331
+s238
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app.dSYM
+t1300115331
+s102
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/Info.plist
+t1300115329
+s582
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/MainWindow.nib
+t1300115330
+s4050
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/PkgInfo
+t1300115329
+s8
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/SecondView.nib
+t1300115330
+s2510
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated
+t1300115331
+s19520
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/FirstViewController.o
+t1300115331
+s29720
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/main.o
+t1300115331
+s5952
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonated.LinkFileList
+c000000004D7E2F8100000000000001BA
+t1300115329
+s442
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonatedAppDelegate.o
+t1300115331
+s40632
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/main.m
+c000000004D7E2F49000000000000016C
+t1300115273
+s364
+i<UIKit/UIKit.h>
+
+N/Users/kingduggan1/iphoneapps/uncarbonated/uncarbonated_Prefix.pch
+c000000004D7E2F4900000000000000C1
+t1300115273
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch.gch
+t1300115331
+s12957072
+
+Nuncarbonated-Info.plist
+c000000004D7E2F49000000000000038D
+t1300115273
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321808129#321808129#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/FirstViewController.o /Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321808131.484044
+e321808131.586006
+r1
+xCompileC
+xbuild/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/FirstViewController.o
+x/Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m321808131#321808131#0(0"0(0#0#72"/Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m4300882208#2039"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-generated-files.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-own-target-headers.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-all-target-headers.hmap -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-project-headers.hmap -F/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -I/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/include -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources/i386 -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources -include /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch -c /Users/kingduggan1/iphoneapps/uncarbonated/Classes/FirstViewController.m -o /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/FirstViewController.o0#
+
+CCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/main.o /Users/kingduggan1/iphoneapps/uncarbonated/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321808131.236972
+e321808131.517260
+r1
+xCompileC
+xbuild/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/main.o
+x/Users/kingduggan1/iphoneapps/uncarbonated/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/kingduggan1/iphoneapps/uncarbonated/main.m321808131#321808131#0(0"0(0#0#49"/Users/kingduggan1/iphoneapps/uncarbonated/main.m4300882208#2001"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-generated-files.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-own-target-headers.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-all-target-headers.hmap -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-project-headers.hmap -F/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -I/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/include -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources/i386 -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources -include /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch -c /Users/kingduggan1/iphoneapps/uncarbonated/main.m -o /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/main.o0#
+
+CCompileC build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonatedAppDelegate.o /Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321808131.238118
+e321808131.483933
+r1
+xCompileC
+xbuild/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonatedAppDelegate.o
+x/Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m321808131#321808131#0(0"0(0#0#76"/Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m4300882208#2047"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-generated-files.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-own-target-headers.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-all-target-headers.hmap -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-project-headers.hmap -F/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -I/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/include -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources/i386 -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources -include /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch -c /Users/kingduggan1/iphoneapps/uncarbonated/Classes/uncarbonatedAppDelegate.m -o /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonatedAppDelegate.o0#
+
+CCompileXIB /Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib
+s321808129.479311
+e321808130.264399
+r1
+xCompileXIB
+x/Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib321808129#321808130#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib4300882208#448"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/MainWindow.nib /Users/kingduggan1/iphoneapps/uncarbonated/MainWindow.xib0#
+
+CCompileXIB /Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib
+s321808129.483602
+e321808130.265523
+r1
+xCompileXIB
+x/Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib321808129#321808130#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#57"/Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib4300882208#448"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/SecondView.nib /Users/kingduggan1/iphoneapps/uncarbonated/SecondView.xib0#
+
+CGenerateDSYMFile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app.dSYM /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated
+s321808131.894800
+e321808131.939359
+r1
+xGenerateDSYMFile
+x/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app.dSYM
+x/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/uncarbonated.app.dSYM build/Debug-iphonesimulator/uncarbonated.app/uncarbonated321808131#321808131#0(0"0(0#0#100"/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated4300882208#410"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated -o /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app.dSYM0#
+
+CLd /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated normal i386
+s321808131.586111
+e321808131.894694
+r1
+xLd
+x/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated
+xnormal
+xi386
+lSLF07#2@105"Link /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated321808131#321808131#0(0"0(0#0#0"4300882208#907"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -L/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -F/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -filelist /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/Objects-normal/i386/uncarbonated.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/uncarbonated0#
+
+CProcessInfoPlistFile /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/Info.plist uncarbonated-Info.plist
+s321808129.444600
+e321808129.479197
+r1
+xProcessInfoPlistFile
+x/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/Info.plist
+xuncarbonated-Info.plist
+lSLF07#2@31"Process uncarbonated-Info.plist321808129#321808129#0(0"0(0#0#66"/Users/kingduggan1/iphoneapps/uncarbonated/uncarbonated-Info.plist28429264708632676#506"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility uncarbonated-Info.plist -genpkginfo /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app/Info.plist0#
+
+CProcessPCH /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch.gch uncarbonated_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321808130.265717
+e321808131.236765
+r1
+xProcessPCH
+x/var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch.gch
+xuncarbonated_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile uncarbonated_Prefix.pch321808130#321808131#0(0"0(0#0#66"/Users/kingduggan1/iphoneapps/uncarbonated/uncarbonated_Prefix.pch4300882208#1884"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.0.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-generated-files.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-own-target-headers.hmap -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-all-target-headers.hmap -iquote /Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/uncarbonated-project-headers.hmap -F/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator -I/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/include -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources/i386 -I/Users/kingduggan1/iphoneapps/uncarbonated/build/uncarbonated.build/Debug-iphonesimulator/uncarbonated.build/DerivedSources -c /Users/kingduggan1/iphoneapps/uncarbonated/uncarbonated_Prefix.pch -o /var/folders/pq/pqkj7jYtEJ8HhJRzYyfV5++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/uncarbonated_Prefix-dlwcnzfkvsmfmggayzctiiktonmn/uncarbonated_Prefix.pch.gch0#
+
+CTouch /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app
+s321808131.939464
+e321808131.984394
+r1
+xTouch
+x/Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app
+lSLF07#2@93"Touch /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app321808131#321808131#0(0"0(0#0#0"4300882208#291"    cd /Users/kingduggan1/iphoneapps/uncarbonated    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kingduggan1/iphoneapps/uncarbonated/build/Debug-iphonesimulator/uncarbonated.app0#
+
